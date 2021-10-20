@@ -1,5 +1,5 @@
 # LimaSmart
-Lima Smart is a smart farming project that aims at  icreasing the quality and quantity of yields for Kenyan small-scale farmers while untilizing technology despite the changing seasons 
+Lima Smart is a smart farming IoT project that aims at  icreasing the quality and quantity of yields for Kenyan small-scale farmers while untilizing technology despite the changing seasons 
 
 [Lima Smart Documents](https://drive.google.com/drive/folders/1T6VqteFuwwPGWnMY842ln19T9Dxj8mjV?usp=sharing) 
 
