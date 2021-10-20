@@ -4,6 +4,5 @@ Lima Smart is a smart farming project that aims at  icreasing the quality and qu
 
 
 
-![depositphotos_65685799-stock-photo-fruit-yogurt-drink-splash-mixed](https://user-images.githubusercontent.com/79209607/138154105-2ce096d9-f918-4077-b605-ef36d48c048e.jpg)
 
 
