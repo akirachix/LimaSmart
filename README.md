@@ -1,4 +1,4 @@
-# LimaSmart
+# Lima Smart
 Lima Smart is a smart farming project that intends to improve the quality and quantity of yields for Kenyan small-holder farmers while using smart irrigation.
 
 [Lima Smart Documents](https://drive.google.com/drive/folders/1T6VqteFuwwPGWnMY842ln19T9Dxj8mjV?usp=sharing) 
