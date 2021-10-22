@@ -1,36 +1,17 @@
-#include <SoftwareSerial.h>
-
-SoftwareSerial gprsSerial(2,3);
-
-
-#include <DHT.h>
-
-#define DHTPIN A0
-
-DHT dht(DHTPIN, DHT11);
-
-void setup()
-{
-  gprsSerial.begin(9600);               // the GPRS baud rate
-  Serial.begin(9600);    // the GPRS baud rate
-  dht.begin();
-
-  delay(1000);
-}
-
-void loop()
+void sim()
 {
       float h = dht.readHumidity();
-      float t = dht.readTemperature();
-      delay(100);
-
+      float t = dht.readTemperature(); 
+      delay(100);   
+         
       Serial.print("Temperature = ");
       Serial.print(t);
       Serial.println(" °C");
       Serial.print("Humidity = ");
       Serial.print(h);
-      Serial.println(" %");
+      Serial.println(" %");    
       
+   
   if (gprsSerial.available())
     Serial.write(gprsSerial.read());
  
@@ -102,13 +83,11 @@ void loop()
   gprsSerial.println("AT+CIPSHUT");//close the connection
   delay(100);
   ShowSerialData();
-
- 
-}
+} 
 void ShowSerialData()
 {
   while(gprsSerial.available()!=0)
   Serial.write(gprsSerial.read());
-  delay(5000);
-
+  delay(5000); 
+  
 }
