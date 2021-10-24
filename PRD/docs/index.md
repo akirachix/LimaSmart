@@ -1,58 +1,59 @@
-Utilizing technology to improve quality and quantity of yields 
-# <p style = "color : green"> LIMA SMART
+<p style="font-family: verdana; font-weight: bold"> Utilizing technology to improve quality and quantity of yields </p>
+
+# <p style = "color : green; font-family: verdana"> LIMA SMART
 
 <img  src="https://www.opendei.eu/wp-content/uploads/2020/11/img-Yanewn0ORWCx4Jlm-w800.jpg"> 
 
-Lima Smart is a smart farming project that intends to improve the quality and quantity of yields for Kenyan small-holder farmers while using smart irrigation.
-## Product Speifics 
-Authors : Juliet Gisemba , Caroline Njuguna , Yvonne Mnyazi , Intwaza Belyse and Mercy Birungi
+<p style= "font-family: verdana;"> Lima Smart is a smart farming project that intends to improve the quality and quantity of yields for Kenyan small-holder farmers while using smart irrigation.</p>
 
-Project name : Lima Smart
+## <p style="font-family: verdana;" > Product Speifics </p>
+<p style="font-family: verdana;" >Authors : Juliet Gisemba , Caroline Njuguna , Yvonne Mnyazi , Intwaza Belyse and Mercy Birungi </p>
 
-Project Status : Under Developement
+<p style="font-family: verdana;" >Project name : Lima Smart</p>
 
-Version number : 1.0
+<p style="font-family: verdana;" >Project Status : Under Developement</p>
 
-Version Description : The background , user stories , user flow goals and design interactions 
-
+<p style="font-family: verdana;" >Version number : 1.0</p>
 
 
-## Background
-Agriculture in Kenya dominates Kenya's economy. Most of it is happening in the rural areas of the country and farmers depend on it as a source of income. However, climate change has greatly impacted farming in the country a great deal. Seasons are no longer predictable and farmers are left with no choice other than to figure out solutions to save the situation. Technology, being one of the solutions served to the farmers, is still in its baby steps despite numerous innovations being made day in and day out. According to research done in the past, the majority of tech innovations fail to succeed after being commercialized since the innovations either fail to solve the problems faced by the farmers, the farmer practice is equal to the innovation or the innovation is expensive. On the other hand, age and tech literacy greatly affect the adaptation of tech innovations by farmers. Most of these innovations are expensive for the farmers to switch to, not to mention their deeply rooted social norms. 
-
-## Problem Statement
-
-How might we increase the quality and quantity of yields for Kenyan farmers while utilizing technology despite the changing seasons?
-
-## Objectives / goals of Lima Smart Project
-
-The project aims to help the farmers by providing information about their agriculture fields. Monitoring environmental factors is the major factor to improve the yield of the crops. The feature of this project includes monitoring temperature, humidity and moisture in agricultural field through sensors DHT11, soil moisture using a a Soil Moisture Sensor (LM393) and the water level using a Water Level Sensor (FSW-6 Float Switch)
- Farmers will be provided with  prompts in form of SMS about what happens in the farm using a sim module .
-
-## Reason for buiding a Smart Irrigation System
-
-From the research we carries out , we noticed the diffrent challenges small scale farmers in Kenya were facing and this is specificaly those in Kajiado county . Most of the farmers face a challenge of change in cliamtic seasons , failure to detect the right amount of water for the crops and pests and diseases .
 
 
-## User Personas
+## <p style="font-family: verdana;" > Background </p>
+<p style="font-family: verdana;" >Agriculture in Kenya dominates Kenya's economy. Most of it is happening in the rural areas of the country and farmers depend on it as a source of income. However, climate change has greatly impacted farming in the country a great deal. Seasons are no longer predictable and farmers are left with no choice other than to figure out solutions to save the situation. Technology, being one of the solutions served to the farmers, is still in its baby steps despite numerous innovations being made day in and day out. According to research done in the past, the majority of tech innovations fail to succeed after being commercialized since the innovations either fail to solve the problems faced by the farmers, the farmer practice is equal to the innovation or the innovation is expensive. On the other hand, age and tech literacy greatly affect the adaptation of tech innovations by farmers. Most of these innovations are expensive for the farmers to switch to, not to mention their deeply rooted social norms. </p>
 
-Persona 1
+## <p style="font-family: verdana;" > Problem Statement </p>
+
+<p style="font-family: verdana;" >How might we increase the quality and quantity of yields for Kenyan farmers while utilizing technology despite the changing seasons? </p>
+
+## <p style="font-family: verdana;" > Objectives / goals of Lima Smart Project </p>
+
+<p style="font-family: verdana;" > The project aims to help the farmers by providing information about their agriculture fields. Monitoring environmental factors is the major factor to improve the yield of the crops. The feature of this project includes monitoring temperature, humidity and moisture in agricultural field through sensors DHT11, soil moisture using a a Soil Moisture Sensor (LM393) and the water level using a Water Level Sensor (FSW-6 Float Switch)
+ Farmers will be provided with  prompts in form of SMS about what happens in the farm using a sim module .</p>
+
+## <p style="font-family: verdana;" > Reason for buiding a Smart Irrigation System </p>
+
+<p style="font-family: verdana;" >From the research we carries out , we noticed the diffrent challenges small scale farmers in Kenya were facing and this is specificaly those in Kajiado county . Most of the farmers face a challenge of change in cliamtic seasons , failure to detect the right amount of water for the crops and pests and diseases . </p>
+
+
+## <p style="font-family: verdana;" > User Personas </p>
+
+<p style="font-family: verdana;" > Persona 1 </p>
 <img src="./persona1.png">
 
-Persona 2
+<p style="font-family: verdana;" >Persona 2</p>
 <img src="./persona2.png">
 
 
-Persona 3
+<p style="font-family: verdana;" >Persona 3 </p>
 <img src="./persona3.png">
 
 
-## User flow 
+## <p style="font-family: verdana;" > User flow </p>
 <img src="./userflow.png">
 
-## Project time line 
+## <p style="font-family: verdana;" > Project time line </p>
 
-
+<p style="font-family: verdana;" >
 <table> 
 <tr>
 <th>Month</th>
@@ -157,12 +158,4 @@ Persona 3
 </td>
 </tr>
 </table>
-
-
-
-
-
-
-
-
-    
+</p>

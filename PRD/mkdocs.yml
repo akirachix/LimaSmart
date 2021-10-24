@@ -10,6 +10,6 @@ theme:
     palette:
       primary: green
     font:
-      code: Roboto Mono
+      text: Roboto Mono
 
 
