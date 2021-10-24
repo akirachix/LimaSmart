@@ -7,5 +7,9 @@ markdown_extensions:
 theme:
     nav_style: dark
     name: material
+    palette:
+      primary: green
+    font:
+      code: Roboto Mono
 
 
