@@ -1,6 +1,7 @@
 <p style="font-family: verdana; font-weight: bold"> Utilizing technology to improve quality and quantity of yields </p>
 
-# <p style = "color : green; font-family: verdana"> LIMA SMART </p>
+# <p style = "color : green; font-family: verdana"> LIMA SMART
+
 <img  src="https://www.opendei.eu/wp-content/uploads/2020/11/img-Yanewn0ORWCx4Jlm-w800.jpg">
 <p style= "font-family: verdana;"> Lima Smart is a smart farming project that intends to improve the quality and quantity of yields for Kenyan small-holder farmers while using smart irrigation.</p>
 
@@ -31,12 +32,17 @@
 <p style="font-family: verdana;" >Persona 3 </p>
 <img src="./persona3.png">
 
+
+
 ## <p style="font-family: verdana;" > User flow </p>
 <img src="./userflow.png">
 
 ## <p style="font-family: verdana;" > Project time line </p>
+
 <p style="font-family: verdana;" >
 <table>
+
+
 <tr>
 <th>Month</th>
 <th> Week </th>
@@ -128,4 +134,4 @@
 </td>
 </tr>
 </table>
-</p>
+  </p>
