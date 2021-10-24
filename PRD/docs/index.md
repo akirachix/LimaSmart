@@ -109,6 +109,10 @@
 <ul>
 <li>Maintenance</li>
 <li>Fetch and visualize data</li>
+<li>Print the control unit </li>
+
+
+
 </ul>
 </td>
 </tr>
