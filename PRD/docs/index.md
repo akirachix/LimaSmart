@@ -22,7 +22,7 @@
  Farmers will be provided with  prompts in form of SMS about what happens in the farm using a sim module .</p>
 
 ## <p style="font-family: verdana;" > Reason for buiding a Smart Irrigation System </p>
-<p style="font-family: verdana;" >From the research we carries out , we noticed the diffrent challenges small scale farmers in Kenya were facing and this is specificaly those in Kajiado county . Most of the farmers face a challenge of change in cliamtic seasons , failure to detect the right amount of water for the crops and pests and diseases . </p>
+<p style="font-family: verdana;" >From the research we carries out , we noticed the diffrent challenges small scale farmers in Kenya were facing and this is specificaly those in Kajiado county . Most of the farmers face a challenge of change in cliamtic seasons , failure to detect the right amount of water for the crops ,pests and diseases . </p>
 
 ## <p style="font-family: verdana;" > User Personas </p>
 <p style="font-family: verdana;" > Persona 1 </p>
